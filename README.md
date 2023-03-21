@@ -7,7 +7,7 @@ The code is written in Python and uses the following libraries:
 - random
 
 ## Contents
- - exe1.ipynb: notebook with the code for the first group of exercises
- - exe2.ipynb: notebook with the code for the second group of exercises (In Progress)
+ - exe1.ipynb: notebook with the code for algorithms involving scalars
+ - exe2.ipynb: notebook with the code for algorithms involving vectors
 
 
