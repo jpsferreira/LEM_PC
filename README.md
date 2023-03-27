@@ -9,5 +9,6 @@ The code is written in Python and uses the following libraries:
 ## Contents
  - exe1.ipynb: notebook with the code for algorithms involving scalars
  - exe2.ipynb: notebook with the code for algorithms involving vectors
+ - exe3.ipynb: notebook with the code for algorithms involving matrices
 
 
