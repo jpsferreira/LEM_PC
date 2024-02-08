@@ -1,6 +1,7 @@
 # LEM_PCI
 
-This is a repository with the code for a variety of algorithms.
+This is a repository with the code for a variety of algorithms. 
+View notes [HERE](https://drive.google.com/file/d/1b7D0uo64LO1_4pGPdmQDbJnmdXUiYzvX/view)
 
 The code is written in Python and uses the following libraries:
 - math
