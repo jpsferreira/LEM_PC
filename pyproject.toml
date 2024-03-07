@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "lem-pc1"
+version = "0.1.0"
+description = ""
+authors = ["jpsferreira <j.ferreira@fe.up.pt>"]
+readme = "README.md"
+packages = [{include = "."}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyter = "^1.0.0"
+ipykernel = "^6.29.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
