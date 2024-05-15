@@ -1,5 +1,7 @@
 clear all;
 clc;
-x = define_points(0,1,21);
-
+a=1;
+b=2;
+N=21;
+x = define_points(a,b,N);
 [A,B] = calcula_mat(x);
